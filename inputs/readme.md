@@ -22,3 +22,15 @@
  ![image](https://github.com/user-attachments/assets/4396660a-9462-4677-b446-6639edef45d8)
 
  
+- O processo de vetorização dependendo da config da máquina pode demorar um pouco
+
+![image](https://github.com/user-attachments/assets/bed4f7a5-eea0-4084-a22c-22e4194d2cc0)
+
+
+- Demosntração da indexação dos vetores
+
+![image](https://github.com/user-attachments/assets/0e16ca00-1917-4776-811b-4304e3be7c39)
+
+# Conclusão
+Com esta ferramenta traz uma grande posssibilidade de desevolvimento de profissionais quanto a grandes empresas no dia-a-dia dos mesmos. Reduzindo o tempo da curva de aprendizado, quando se tem uma base de dados atualizada sobre o que está ocorrendo e com uma pergunta no prompt é possível ter a resolução de um problema. Principalmente em demandas onde tudo se é registrado, que pode vir a ocorrer com outros clientes.
+
